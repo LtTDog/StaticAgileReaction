@@ -1,8 +1,7 @@
 var searchData=
 [
   ['categoriesdatabase',['CategoriesDatabase',['../class_agile_reaction_1_1_trivia_framework_1_1_core_1_1_categories_database.html',1,'AgileReaction::TriviaFramework::Core']]],
-  ['category',['Category',['../class_agile_reaction_1_1_trivia_framework_1_1_core_1_1_category.html',1,'AgileReaction::TriviaFramework::Core']]],
-  ['category',['Category',['../class_agile_reaction_1_1_trivia_framework_1_1_core_1_1_categories_database.html#ad798341241f06d2d46bdc1883fca682f',1,'AgileReaction::TriviaFramework::Core::CategoriesDatabase']]],
+  ['category',['Category',['../class_agile_reaction_1_1_trivia_framework_1_1_core_1_1_category.html',1,'AgileReaction.TriviaFramework.Core.Category'],['../class_agile_reaction_1_1_trivia_framework_1_1_core_1_1_categories_database.html#ad798341241f06d2d46bdc1883fca682f',1,'AgileReaction.TriviaFramework.Core.CategoriesDatabase.Category()']]],
   ['categorybyid',['CategoryByID',['../class_agile_reaction_1_1_trivia_framework_1_1_core_1_1_categories_database.html#a1307d7e3e1c738c4e465359e28d370a1',1,'AgileReaction::TriviaFramework::Core::CategoriesDatabase']]],
   ['categoryeditor',['CategoryEditor',['../class_agile_reaction_1_1_trivia_framework_1_1_editor_1_1_category_editor.html',1,'AgileReaction::TriviaFramework::Editor']]],
   ['commonfunctions',['CommonFunctions',['../class_agile_reaction_1_1_trivia_framework_1_1_editor_1_1_common_functions.html',1,'AgileReaction::TriviaFramework::Editor']]],
